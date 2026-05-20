@@ -73,8 +73,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PhD candidate of Genomics
-        caption: 2020 - 
+        title: PhD of Bioinformatics
+        caption: 2020 - 2026
         #sub_title: 
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -86,6 +86,12 @@ content:
         #sub_title: 
         description: |
           Medical School, University of Chinese Academy of Sciences
+      - layout: left
+        title: BSc of Bioengineering
+        caption: 2013 - 2017
+        #sub_title: 
+        description: |
+          College of Life Sciences, Henan Agricultural University
 
 # Footer
 footer_show_references: true

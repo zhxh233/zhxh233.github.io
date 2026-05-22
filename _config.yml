@@ -73,7 +73,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PhD of Bioinformatics
+        title: PhD in Bioinformatics
         caption: 2020 - 2026
         #sub_title: 
         #quote: >
@@ -81,13 +81,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           Institute of Zoology, Chinese Academy of Sciences
       - layout: left
-        title: Master of Regenerative Medicine
+        title: Master in Regenerative Medicine
         caption: 2017 - 2020
         #sub_title: 
         description: |
           Medical School, University of Chinese Academy of Sciences
       - layout: left
-        title: BSc of Bioengineering
+        title: BSc in Bioengineering
         caption: 2013 - 2017
         #sub_title: 
         description: |

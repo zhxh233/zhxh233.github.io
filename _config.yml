@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Xiaohang ZHANG
-title: PhD candidate (defense passed)
+title: Postdoctoral Researcher
 email: zhxh96@gmail.com
 website: zhxh233.github.io
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/createdByAI.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm a PhD candidate who is focus on bioinformatics, especieally in comparative genomics. 
+  Hi, I'm a postdoctoral researcher dedicated to identifying drug targets through bioinformatics. 
   
   Interested in machine learning and artificial intelligence.
 
@@ -72,6 +72,11 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Postdoctoral Researcher
+        caption: 2026 -
+         description: | # this will include new lines to allow paragraphs
+          Hangzhou Institute of Medicine, Chinese Academy of Sciences
       - layout: left
         title: PhD in Bioinformatics
         caption: 2020 - 2026

@@ -75,7 +75,7 @@ content:
       - layout: center
         title: Postdoctoral Researcher
         caption: 2026 -
-         description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Hangzhou Institute of Medicine, Chinese Academy of Sciences
       - layout: center
         title: PhD in Bioinformatics

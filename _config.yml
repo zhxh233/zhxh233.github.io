@@ -72,12 +72,12 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Postdoctoral Researcher
         caption: 2026 -
          description: | # this will include new lines to allow paragraphs
           Hangzhou Institute of Medicine, Chinese Academy of Sciences
-      - layout: left
+      - layout: center
         title: PhD in Bioinformatics
         caption: 2020 - 2026
         #sub_title: 
@@ -85,13 +85,13 @@ content:
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Institute of Zoology, Chinese Academy of Sciences
-      - layout: left
+      - layout: center
         title: Master in Regenerative Medicine
         caption: 2017 - 2020
         #sub_title: 
         description: |
           Medical School, University of Chinese Academy of Sciences
-      - layout: left
+      - layout: center
         title: BSc in Bioengineering
         caption: 2013 - 2017
         #sub_title: 

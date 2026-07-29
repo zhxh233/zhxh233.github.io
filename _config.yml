@@ -66,10 +66,7 @@ content:
           2. [Pan, S.-K. et al. Smarter birds, smaller eggs, and less parental care time. Zool. Res. 44, 98–100 (2023).](https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283)
           
 
-          
-          
-
-  - title: Education # Title for the section
+  - title: Employment # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: center
@@ -77,8 +74,14 @@ content:
         caption: 2026 -
         description: | # this will include new lines to allow paragraphs
           Hangzhou Institute of Medicine, Chinese Academy of Sciences
+
+          
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: center
-        title: PhD in Bioinformatics
+        title: Doctor of Philosophy | Bioinformatics
         caption: 2020 - 2026
         #sub_title: 
         #quote: >
@@ -86,13 +89,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           Institute of Zoology, Chinese Academy of Sciences
       - layout: center
-        title: Master in Regenerative Medicine
+        title: Master of Science | Regenerative Medicine
         caption: 2017 - 2020
         #sub_title: 
         description: |
           Medical School, University of Chinese Academy of Sciences
       - layout: center
-        title: BSc in Bioengineering
+        title: Bachelor of Engineering | Bioengineering
         caption: 2013 - 2017
         #sub_title: 
         description: |

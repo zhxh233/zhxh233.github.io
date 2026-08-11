@@ -97,13 +97,13 @@ content:
       - layout: center
         title: 2025
         description: |
-          >[Wu, W., Zhang, X.H., Du, F.F., Gu, Z.R., Hu, L., Chen, J.F., Lin, Z.Z., Pan, S.K., & Zhan, X.J. (2025). 
+          >[Wu, W., Zhang, X.H., Du, F.F., Gu, Z.R., Hu, L., Chen, J.F., Lin, Z.Z., Pan, S.K., & Zhan, X.J.* (2025). 
           Acute hypoxia suppresses blood glycolysis in saker falcons <i>(falco cherrug)</i> via NR3C1-mediated repression of <i>HK1</i>: 
           Evidence from hematological and epigenomic profiling. <i>Zoological Research</i>, <b>46</b>(5), 1165–1174.](https://doi.org/10.24272/j.issn.2095-8137.2025.092)
       - layout: center
         title: 2023
         description: |
-          >[Pan, S.K., Wang, D.P., Zhang, X.H., & Zhan, X.J. (2023). Smarter birds, smaller eggs, and less parental care time. 
+          >[Pan, S.K.#, Wang, D.P.#, Zhang, X.H., & Zhan, X.J.* (2023). Smarter birds, smaller eggs, and less parental care time. 
           <i>Zoological Research</i>, <b>44</b>(1), 98–100.](https://doi.org/10.24272/j.issn.2095-8137.2022.283)
 
 # Footer

@@ -105,6 +105,11 @@ content:
         description: |
           >[Pan, S.K.<sup>#</sup>, Wang, D.P.<sup>#</sup>, Zhang, X.H., & Zhan, X.J.<sup>*</sup> (2023). Smarter birds, smaller eggs, and less parental care time. 
           <i>Zoological Research</i>, <b>44</b>(1), 98–100.](https://doi.org/10.24272/j.issn.2095-8137.2022.283)
+      - layout: center
+        title: "2020"
+        description: |
+          >[ZHANG, X.H., LI, Y.Y., JIA, M.X., GU, Q.<sup>#</sup>, (2020). Identification and Expression of Elastin-like Polypeptides. 
+          <i>China Biotechnology</i>, <b>40</b>(8), 33–40. (in Chinese)](https://doi.org/10.13523/j.cb.2003055)
 
 # Footer
 footer_show_references: true
